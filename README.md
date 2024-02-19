@@ -1,0 +1,2 @@
+# shop-anything-lagos
+This is a BACKEND DEVELOPER INTERNSHIP ASSESSMENT
